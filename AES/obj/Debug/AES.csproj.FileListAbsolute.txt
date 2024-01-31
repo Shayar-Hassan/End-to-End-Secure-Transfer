@@ -1,0 +1,10 @@
+c:\users\asus--2018\documents\visual studio 2012\Projects\AES\AES\bin\Debug\AES.exe.config
+c:\users\asus--2018\documents\visual studio 2012\Projects\AES\AES\bin\Debug\AES.exe
+c:\users\asus--2018\documents\visual studio 2012\Projects\AES\AES\bin\Debug\AES.pdb
+c:\users\asus--2018\documents\visual studio 2012\Projects\AES\AES\obj\Debug\AES.csprojResolveAssemblyReference.cache
+c:\users\asus--2018\documents\visual studio 2012\Projects\AES\AES\obj\Debug\AES.exe
+c:\users\asus--2018\documents\visual studio 2012\Projects\AES\AES\obj\Debug\AES.pdb
+C:\Users\asus--2018\Documents\Visual Studio 2012\Projects\AES\AES\obj\Debug\AES.MainForm.resources
+C:\Users\asus--2018\Documents\Visual Studio 2012\Projects\AES\AES\obj\Debug\AES.Reciever.resources
+C:\Users\asus--2018\Documents\Visual Studio 2012\Projects\AES\AES\obj\Debug\AES.Sender.resources
+C:\Users\asus--2018\Documents\Visual Studio 2012\Projects\AES\AES\obj\Debug\AES.csproj.GenerateResource.Cache
